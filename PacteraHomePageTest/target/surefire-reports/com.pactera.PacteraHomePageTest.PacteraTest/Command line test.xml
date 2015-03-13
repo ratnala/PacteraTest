@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Anitha" name="com.pactera.PacteraHomePageTest.PacteraTest" tests="1" failures="0" timestamp="13 Mar 2015 02:49:53 GMT" time="63.968" errors="0">
+  <testcase name="PacteraSearch" time="14.739" classname="com.pactera.PacteraHomePageTest.PacteraTest"/>
+</testsuite>

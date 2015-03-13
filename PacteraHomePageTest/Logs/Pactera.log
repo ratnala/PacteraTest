@@ -1,0 +1,8 @@
+13/03/2015 13:48:49 devpinoyLogger Initialising the driver
+13/03/2015 13:49:10 devpinoyLogger successfully initialised the firefox driver
+13/03/2015 13:49:36 devpinoyLogger Navigated to  pactera site URL :  http://pactera.com
+13/03/2015 13:49:38 devpinoyLogger entered search key word as ---->test automation
+13/03/2015 13:49:41 devpinoyLogger entereted the word : test automation
+13/03/2015 13:49:51 devpinoyLogger clicked search button link
+13/03/2015 13:49:51 devpinoyLogger Verified test automation page
+13/03/2015 13:49:53 devpinoyLogger Closed the browser as test completed
